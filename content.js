@@ -1,0 +1,1 @@
+const content = "You are engaged in a Blog Project development that necessitates the inclusion of two key functionalities: ‘List Post’ and ‘Post Detail’."
